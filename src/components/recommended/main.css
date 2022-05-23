@@ -1,0 +1,17 @@
+.section{
+  position: absolute;
+  top: 400px;
+  left: 259px;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.section__title {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  color: #19202c;
+  margin-top: 49px;
+  margin-bottom: 30px;
+}
+

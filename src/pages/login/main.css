@@ -1,0 +1,21 @@
+.login{
+  background-image: url("../../assets/images/dinosaur.png");
+  background-repeat: no-repeat;
+  background-position: 370px -30px;
+  padding: 200px 320px 500px 100px;
+}
+
+.spn{
+  color: red;
+}
+
+.login__title{
+  display: block;
+  /* margin-left: 200px; */
+  margin-bottom: 50px;
+}
+
+.login__form{
+  display: block;
+  margin-left: 50px;
+}

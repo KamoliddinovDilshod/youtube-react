@@ -1,0 +1,38 @@
+.card__img {
+  display: block;
+  border-radius: 14px;
+}
+
+.card__title {
+  width: 105px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #19202c;
+}
+
+.card__box {
+  display: flex;
+  align-items: center;
+}
+
+.card__time {
+  display: block;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  color: #c2c2c2;
+  margin-right: 21px;
+}
+
+.card__span {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: right;
+  color: #c2c2c2;
+}
+
+.carus__link{
+  text-decoration: none;
+}

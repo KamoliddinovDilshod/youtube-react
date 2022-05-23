@@ -1,0 +1,20 @@
+.blog {
+  position: absolute;
+  left: 259px;
+  display: inline-block;
+}
+
+.blog__box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 38px;
+}
+
+.blog__title {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  color: #19202c;
+  margin: 0;
+  margin-left: 20px;
+}

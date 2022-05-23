@@ -1,0 +1,33 @@
+.food__box {
+  position: absolute;
+  top: 790px;
+  left: 259px;
+  padding-bottom: 64px;
+}
+
+.food__packet {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.food__img {
+  margin-right: 20px;
+}
+
+.food__title {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  color: #19202c;
+  margin-right: 20px;
+}
+
+.food__span {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #c2c2c2;
+  margin-right: 500px;
+}
+
