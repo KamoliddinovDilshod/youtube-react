@@ -4,6 +4,7 @@ import Logo from "../../assets/images/Logo.svg";
 import Video from "../../assets/images/Video.svg";
 import App from "../../assets/images/app.svg";
 import Notification from "../../assets/images/Notification.svg";
+import Userpic from "../../assets/images/Userpic.png"
 import "./main.css";
 
 const Header = () => {
@@ -29,7 +30,9 @@ const Header = () => {
         <button className='header__button'>
           <img src={Notification} alt='Notification' />
         </button>
-        <button className='header__button'></button>
+        <button className='header__button'>
+          <img src={Userpic} alt="user picture" />
+        </button>
       </div>
     </header>
   );
